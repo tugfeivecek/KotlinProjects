@@ -7,7 +7,7 @@ fun main(){
      val girdi= Scanner(System.`in`)
      println("Sil (1)")
      println("Ekle (2)")
-     //until otomatik indeks değerini 1 azaltarak alır
+
     val tercih= girdi.nextInt()
     when(tercih){
         1-> println("Veri silindi")
