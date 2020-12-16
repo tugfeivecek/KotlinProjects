@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginEkranTasarimi</string>
+    <string name="kullaniciAdi">UserName</string>
+    <string name="sifre">Password</string>
+    <string name="buttonYazi">Click</string>
+    <string name="yardim">Help ?</string>
+</resources>
